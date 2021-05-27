@@ -1,5 +1,5 @@
 # news_springr
-This project is about listing the news content by using API.
+This project is about listing the news content by using https://newsapi.org/.
 
 Below you'll find information about installing the project
 
